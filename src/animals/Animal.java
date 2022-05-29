@@ -1,4 +1,4 @@
-package inheritance.animals;
+package animals;
 
 public class Animal {
     private String name;
