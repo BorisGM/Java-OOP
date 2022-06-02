@@ -1,4 +1,4 @@
-package animals;
+package Inherit.animals;
 
 public class Tomcat extends Cat {
     private static final String GENDER = "Male";

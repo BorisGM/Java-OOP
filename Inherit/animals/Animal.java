@@ -1,4 +1,4 @@
-package animals;
+package Inherit.animals;
 
 public class Animal {
     private String name;

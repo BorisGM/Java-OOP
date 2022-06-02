@@ -1,4 +1,4 @@
-package need_for_speed;
+package Inherit.need_for_speed;
 
 public class Car extends Vehicle {
     final static double DEFAULT_FUEL_CONSUMPTION = 3;

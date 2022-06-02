@@ -1,4 +1,4 @@
-package need_for_speed;
+package Inherit.need_for_speed;
 
 public class Motorcycle extends Vehicle {
     public Motorcycle(double fuel, int horsePower) {
