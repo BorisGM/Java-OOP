@@ -1,5 +1,5 @@
 package animals;
-//created by J.M.
+
 
 public class Animal {
 
