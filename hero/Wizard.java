@@ -1,5 +1,5 @@
 package hero;
-//created by J.M.
+//created by B.M.
 
 public class Wizard extends Hero{
     public Wizard(String username, int level) {
