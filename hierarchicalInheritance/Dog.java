@@ -1,5 +1,5 @@
 package hierarchicalInheritance;
-//created by J.M.
+//created by B.M.
 
 public class Dog extends Animal {
 
