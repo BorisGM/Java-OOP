@@ -1,3 +1,5 @@
+package hierarchicalInheritance;
+
 import hero.DarkWizard;
 
 //created by B.M.

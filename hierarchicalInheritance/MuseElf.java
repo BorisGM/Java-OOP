@@ -1,3 +1,5 @@
+package hierarchicalInheritance;
+
 import hero.Elf;
 
 public class MuseElf extends Elf {
