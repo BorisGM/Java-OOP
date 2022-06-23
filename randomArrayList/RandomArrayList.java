@@ -1,5 +1,5 @@
 package randomArrayList;
-//created by J.M.
+//created by B.M.
 
 import java.util.ArrayList;
 import java.util.concurrent.ThreadLocalRandom;
