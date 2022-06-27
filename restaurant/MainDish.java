@@ -1,5 +1,5 @@
 package restaurant;
-//created by J.M.
+//created by B.M.
 
 import java.math.BigDecimal;
 
