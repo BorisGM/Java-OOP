@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="827a4df2-2ded-40b7-878b-7aa28e6fc866" name="Changes" comment="" />
+    <list default="true" id="827a4df2-2ded-40b7-878b-7aa28e6fc866" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,14 +25,14 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/borko/Desktop/OOP/InterfacesAndAbstraction/car_shop_extended",
-    "settings.editor.selected.configurable": "editor.preferences.appearance"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/borko/Desktop/OOP/InterfacesAndAbstraction/car_shop_extended&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\borko\Desktop\OOP\InterfacesAndAbstraction\car_shop_extended" />
@@ -112,27 +114,8 @@
       <workItem from="1658001208015" duration="383000" />
       <workItem from="1658255714035" duration="100000" />
       <workItem from="1658255836127" duration="150000" />
-    </task>
-    <task id="LOCAL-00078" summary="ex">
-      <created>1656706093308</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1656706093308</updated>
-    </task>
-    <task id="LOCAL-00079" summary="ex">
-      <created>1656706147014</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1656706147014</updated>
-    </task>
-    <task id="LOCAL-00080" summary="ex">
-      <created>1656706187090</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1656706187091</updated>
+      <workItem from="1658522948556" duration="568000" />
+      <workItem from="1658523600669" duration="5000" />
     </task>
     <task id="LOCAL-00081" summary="ex">
       <created>1656794676623</created>
@@ -456,7 +439,28 @@
       <option name="project" value="LOCAL" />
       <updated>1658255963636</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary="ex">
+      <created>1658523042627</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1658523042628</updated>
+    </task>
+    <task id="LOCAL-00128" summary="ex">
+      <created>1658523110834</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1658523110834</updated>
+    </task>
+    <task id="LOCAL-00129" summary="ex">
+      <created>1658523159594</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1658523159594</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
