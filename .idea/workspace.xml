@@ -27,17 +27,17 @@
   "keyToString": {
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/borko/Desktop/OOP/InterfacesAndAbstraction/military_elite",
+    "last_opened_file_path": "C:/Users/borko/Desktop/OOP/InterfacesAndAbstraction/multiple_implementation",
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\borko\Desktop\OOP\InterfacesAndAbstraction\multiple_implementation" />
       <recent name="C:\Users\borko\Desktop\OOP\InterfacesAndAbstraction\military_elite" />
       <recent name="C:\Users\borko\Desktop\OOP\InterfacesAndAbstraction\food_shortage" />
       <recent name="C:\Users\borko\Desktop\OOP\InterfacesAndAbstraction\ferrari" />
       <recent name="C:\Users\borko\Desktop\OOP\InterfacesAndAbstraction\define_interface_person" />
-      <recent name="C:\Users\borko\Desktop\OOP\InterfacesAndAbstraction\car_shop_extended" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\borko\AppData\Roaming\JetBrains\IntelliJIdea2022.1\consoles\db" />
@@ -118,27 +118,7 @@
       <workItem from="1659471555844" duration="691000" />
       <workItem from="1659558313005" duration="512000" />
       <workItem from="1659807285205" duration="1175000" />
-    </task>
-    <task id="LOCAL-00097" summary="ex">
-      <created>1657223428294</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1657223428294</updated>
-    </task>
-    <task id="LOCAL-00098" summary="ex">
-      <created>1657223456011</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1657223456011</updated>
-    </task>
-    <task id="LOCAL-00099" summary="ex">
-      <created>1657230926644</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1657230926644</updated>
+      <workItem from="1659898687992" duration="235000" />
     </task>
     <task id="LOCAL-00100" summary="ex">
       <created>1657230958205</created>
@@ -462,7 +442,28 @@
       <option name="project" value="LOCAL" />
       <updated>1659808638584</updated>
     </task>
-    <option name="localTasksCounter" value="146" />
+    <task id="LOCAL-00146" summary="ex">
+      <created>1659898845237</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1659898845237</updated>
+    </task>
+    <task id="LOCAL-00147" summary="ex">
+      <created>1659898882755</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1659898882755</updated>
+    </task>
+    <task id="LOCAL-00148" summary="ex">
+      <created>1659898910637</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1659898910637</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
