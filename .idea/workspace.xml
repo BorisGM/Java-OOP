@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="827a4df2-2ded-40b7-878b-7aa28e6fc866" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="827a4df2-2ded-40b7-878b-7aa28e6fc866" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,17 +27,17 @@
   "keyToString": {
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/borko/Desktop/OOP/InterfacesAndAbstraction/say_hello",
+    "last_opened_file_path": "C:/Users/borko/Desktop/OOP/InterfacesAndAbstraction/say_hello_extended",
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\borko\Desktop\OOP\InterfacesAndAbstraction\say_hello_extended" />
       <recent name="C:\Users\borko\Desktop\OOP\InterfacesAndAbstraction\say_hello" />
       <recent name="C:\Users\borko\Desktop\OOP\InterfacesAndAbstraction\multiple_implementation" />
       <recent name="C:\Users\borko\Desktop\OOP\InterfacesAndAbstraction\military_elite" />
       <recent name="C:\Users\borko\Desktop\OOP\InterfacesAndAbstraction\food_shortage" />
-      <recent name="C:\Users\borko\Desktop\OOP\InterfacesAndAbstraction\ferrari" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\borko\AppData\Roaming\JetBrains\IntelliJIdea2022.1\consoles\db" />
@@ -121,28 +119,7 @@
       <workItem from="1659558313005" duration="512000" />
       <workItem from="1659807285205" duration="1175000" />
       <workItem from="1659898687992" duration="235000" />
-      <workItem from="1659987135430" duration="913000" />
-    </task>
-    <task id="LOCAL-00103" summary="ex">
-      <created>1657483897159</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1657483897159</updated>
-    </task>
-    <task id="LOCAL-00104" summary="ex">
-      <created>1657483952134</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1657483952134</updated>
-    </task>
-    <task id="LOCAL-00105" summary="ex">
-      <created>1657568998067</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1657568998067</updated>
+      <workItem from="1659987135430" duration="1623000" />
     </task>
     <task id="LOCAL-00106" summary="ex">
       <created>1657569024685</created>
@@ -466,7 +443,28 @@
       <option name="project" value="LOCAL" />
       <updated>1659987391063</updated>
     </task>
-    <option name="localTasksCounter" value="152" />
+    <task id="LOCAL-00152" summary="ex">
+      <created>1660075929030</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1660075929030</updated>
+    </task>
+    <task id="LOCAL-00153" summary="ex">
+      <created>1660075963797</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1660075963797</updated>
+    </task>
+    <task id="LOCAL-00154" summary="ex">
+      <created>1660075988527</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1660075988527</updated>
+    </task>
+    <option name="localTasksCounter" value="155" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
