@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827a4df2-2ded-40b7-878b-7aa28e6fc866" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Polymorphism/calculator/Extensions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polymorphism/calculator/InputInterpreter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism/math_operations/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism/math_operations/MathOperation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,17 +30,17 @@
   "keyToString": {
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/borko/Desktop/OOP/Polymorphism/calculator",
+    "last_opened_file_path": "C:/Users/borko/Desktop/OOP/Polymorphism/math_operations",
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\borko\Desktop\OOP\Polymorphism\math_operations" />
       <recent name="C:\Users\borko\Desktop\OOP\Polymorphism\calculator" />
+      <recent name="C:\Users\borko\Desktop\OOP" />
       <recent name="C:\Users\borko\Desktop\OOP\Polymorphism\animals" />
       <recent name="C:\Users\borko\Desktop\OOP\InterfacesAndAbstraction\say_hello_extended" />
-      <recent name="C:\Users\borko\Desktop\OOP\InterfacesAndAbstraction\say_hello" />
-      <recent name="C:\Users\borko\Desktop\OOP\InterfacesAndAbstraction\multiple_implementation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\borko\AppData\Roaming\JetBrains\IntelliJIdea2022.1\consoles\db" />
@@ -124,28 +123,7 @@
       <workItem from="1659807285205" duration="1175000" />
       <workItem from="1659898687992" duration="235000" />
       <workItem from="1659987135430" duration="1623000" />
-      <workItem from="1660583721806" duration="546000" />
-    </task>
-    <task id="LOCAL-00109" summary="ex">
-      <created>1657655947918</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1657655947918</updated>
-    </task>
-    <task id="LOCAL-00110" summary="ex">
-      <created>1657655995789</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1657655995789</updated>
-    </task>
-    <task id="LOCAL-00111" summary="ex">
-      <created>1657656041008</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1657656041008</updated>
+      <workItem from="1660583721806" duration="1311000" />
     </task>
     <task id="LOCAL-00112" summary="ex">
       <created>1657656081083</created>
@@ -469,7 +447,28 @@
       <option name="project" value="LOCAL" />
       <updated>1660584018019</updated>
     </task>
-    <option name="localTasksCounter" value="158" />
+    <task id="LOCAL-00158" summary="ex">
+      <created>1660676513044</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1660676513044</updated>
+    </task>
+    <task id="LOCAL-00159" summary="ex">
+      <created>1660676568765</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1660676568765</updated>
+    </task>
+    <task id="LOCAL-00160" summary="ex">
+      <created>1660676601985</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1660676601985</updated>
+    </task>
+    <option name="localTasksCounter" value="161" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
