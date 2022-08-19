@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827a4df2-2ded-40b7-878b-7aa28e6fc866" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Polymorphism/vehicles/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polymorphism/vehicles/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism/vehicles_extension/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism/vehicles_extension/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,17 +30,17 @@
   "keyToString": {
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/borko/Desktop/OOP/Polymorphism/vehicles",
+    "last_opened_file_path": "C:/Users/borko/Desktop/OOP/Polymorphism/vehicles_extension",
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\borko\Desktop\OOP\Polymorphism\vehicles_extension" />
       <recent name="C:\Users\borko\Desktop\OOP\Polymorphism\vehicles" />
       <recent name="C:\Users\borko\Desktop\OOP\Polymorphism\shapes" />
       <recent name="C:\Users\borko\Desktop\OOP\Polymorphism\math_operations" />
       <recent name="C:\Users\borko\Desktop\OOP\Polymorphism\calculator" />
-      <recent name="C:\Users\borko\Desktop\OOP" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\borko\AppData\Roaming\JetBrains\IntelliJIdea2022.1\consoles\db" />
@@ -123,28 +123,7 @@
       <workItem from="1659807285205" duration="1175000" />
       <workItem from="1659898687992" duration="235000" />
       <workItem from="1659987135430" duration="1623000" />
-      <workItem from="1660583721806" duration="2620000" />
-    </task>
-    <task id="LOCAL-00115" summary="ex">
-      <created>1657826996346</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1657826996346</updated>
-    </task>
-    <task id="LOCAL-00116" summary="ex">
-      <created>1657827030466</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1657827030466</updated>
-    </task>
-    <task id="LOCAL-00117" summary="ex">
-      <created>1657915404149</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1657915404149</updated>
+      <workItem from="1660583721806" duration="3345000" />
     </task>
     <task id="LOCAL-00118" summary="ex">
       <created>1657915449430</created>
@@ -468,7 +447,28 @@
       <option name="project" value="LOCAL" />
       <updated>1660763017924</updated>
     </task>
-    <option name="localTasksCounter" value="164" />
+    <task id="LOCAL-00164" summary="ex">
+      <created>1660851554569</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1660851554569</updated>
+    </task>
+    <task id="LOCAL-00165" summary="ex">
+      <created>1660851591290</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1660851591290</updated>
+    </task>
+    <task id="LOCAL-00166" summary="ex">
+      <created>1660851646136</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1660851646136</updated>
+    </task>
+    <option name="localTasksCounter" value="167" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
