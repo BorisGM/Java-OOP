@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="827a4df2-2ded-40b7-878b-7aa28e6fc866" name="Changes" comment="" />
+    <list default="true" id="827a4df2-2ded-40b7-878b-7aa28e6fc866" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,17 +29,17 @@
   "keyToString": {
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/borko/Desktop/OOP/Reflection/barracksWars/models",
+    "last_opened_file_path": "C:/Users/borko/Desktop/OOP/Reflection/barracksWars/models/units",
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\borko\Desktop\OOP\Reflection\barracksWars\models\units" />
       <recent name="C:\Users\borko\Desktop\OOP\Reflection\barracksWars\models" />
       <recent name="C:\Users\borko\Desktop\OOP\Reflection\barracksWars\interfaces" />
       <recent name="C:\Users\borko\Desktop\OOP\Reflection\barracksWars\data" />
       <recent name="C:\Users\borko\Desktop\OOP\Reflection\barracksWars\core" />
-      <recent name="C:\Users\borko\Desktop\OOP\Reflection\barracksWars\core\factories" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\borko\AppData\Roaming\JetBrains\IntelliJIdea2022.1\consoles\db" />
@@ -122,27 +124,7 @@
       <workItem from="1659987135430" duration="1623000" />
       <workItem from="1660583721806" duration="3461000" />
       <workItem from="1661373631696" duration="2863000" />
-    </task>
-    <task id="LOCAL-00134" summary="ex">
-      <created>1659471640491</created>
-      <option name="number" value="00134" />
-      <option name="presentableId" value="LOCAL-00134" />
-      <option name="project" value="LOCAL" />
-      <updated>1659471640491</updated>
-    </task>
-    <task id="LOCAL-00135" summary="ex">
-      <created>1659471662729</created>
-      <option name="number" value="00135" />
-      <option name="presentableId" value="LOCAL-00135" />
-      <option name="project" value="LOCAL" />
-      <updated>1659471662729</updated>
-    </task>
-    <task id="LOCAL-00136" summary="ex">
-      <created>1659558528135</created>
-      <option name="number" value="00136" />
-      <option name="presentableId" value="LOCAL-00136" />
-      <option name="project" value="LOCAL" />
-      <updated>1659558528135</updated>
+      <workItem from="1661802134763" duration="881000" />
     </task>
     <task id="LOCAL-00137" summary="ex">
       <created>1659558590089</created>
@@ -466,7 +448,28 @@
       <option name="project" value="LOCAL" />
       <updated>1661624084215</updated>
     </task>
-    <option name="localTasksCounter" value="183" />
+    <task id="LOCAL-00183" summary="ex">
+      <created>1661802218215</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1661802218231</updated>
+    </task>
+    <task id="LOCAL-00184" summary="ex">
+      <created>1661802248564</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1661802248564</updated>
+    </task>
+    <task id="LOCAL-00185" summary="ex">
+      <created>1661802282308</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1661802282308</updated>
+    </task>
+    <option name="localTasksCounter" value="186" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
