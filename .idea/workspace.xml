@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827a4df2-2ded-40b7-878b-7aa28e6fc866" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Reflection/task_06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reflection/task_07/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,17 +29,17 @@
   "keyToString": {
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/borko/Desktop/OOP/Reflection/task_06",
+    "last_opened_file_path": "C:/Users/borko/Desktop/OOP/Reflection/task_07",
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\borko\Desktop\OOP\Reflection\task_07" />
       <recent name="C:\Users\borko\Desktop\OOP\Reflection\task_06" />
       <recent name="C:\Users\borko\Desktop\OOP\Reflection\task_05" />
       <recent name="C:\Users\borko\Desktop\OOP\Reflection\task_04" />
       <recent name="C:\Users\borko\Desktop\OOP\Reflection\task_03" />
-      <recent name="C:\Users\borko\Desktop\OOP\Reflection\task_02" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\borko\AppData\Roaming\JetBrains\IntelliJIdea2022.1\consoles\db" />
@@ -124,28 +124,7 @@
       <workItem from="1659987135430" duration="1623000" />
       <workItem from="1660583721806" duration="3461000" />
       <workItem from="1661373631696" duration="2863000" />
-      <workItem from="1661802134763" duration="2104000" />
-    </task>
-    <task id="LOCAL-00144" summary="ex">
-      <created>1659808602514</created>
-      <option name="number" value="00144" />
-      <option name="presentableId" value="LOCAL-00144" />
-      <option name="project" value="LOCAL" />
-      <updated>1659808602514</updated>
-    </task>
-    <task id="LOCAL-00145" summary="ex">
-      <created>1659808638584</created>
-      <option name="number" value="00145" />
-      <option name="presentableId" value="LOCAL-00145" />
-      <option name="project" value="LOCAL" />
-      <updated>1659808638584</updated>
-    </task>
-    <task id="LOCAL-00146" summary="ex">
-      <created>1659898845237</created>
-      <option name="number" value="00146" />
-      <option name="presentableId" value="LOCAL-00146" />
-      <option name="project" value="LOCAL" />
-      <updated>1659898845237</updated>
+      <workItem from="1661802134763" duration="2798000" />
     </task>
     <task id="LOCAL-00147" summary="ex">
       <created>1659898882755</created>
@@ -469,7 +448,28 @@
       <option name="project" value="LOCAL" />
       <updated>1661970594870</updated>
     </task>
-    <option name="localTasksCounter" value="193" />
+    <task id="LOCAL-00193" summary="ex">
+      <created>1662053961031</created>
+      <option name="number" value="00193" />
+      <option name="presentableId" value="LOCAL-00193" />
+      <option name="project" value="LOCAL" />
+      <updated>1662053961031</updated>
+    </task>
+    <task id="LOCAL-00194" summary="ex">
+      <created>1662053985883</created>
+      <option name="number" value="00194" />
+      <option name="presentableId" value="LOCAL-00194" />
+      <option name="project" value="LOCAL" />
+      <updated>1662053985883</updated>
+    </task>
+    <task id="LOCAL-00195" summary="ex">
+      <created>1662054035431</created>
+      <option name="number" value="00195" />
+      <option name="presentableId" value="LOCAL-00195" />
+      <option name="project" value="LOCAL" />
+      <updated>1662054035431</updated>
+    </task>
+    <option name="localTasksCounter" value="196" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
