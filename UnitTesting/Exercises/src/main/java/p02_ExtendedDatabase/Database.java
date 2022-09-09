@@ -31,6 +31,14 @@ public class Database {
         this.elements[++index] = person;
         this.elementsCount++;
     }
+    public void remove() throws OperationNotSupportedException {
+        try {
+            this.elements[index--] = null;
+            this.elementsCount--;
+        } catch (ArrayIndexOutOfBoundsException ex) {
+            throw new OperationNotSupportedException();
+        }
+    }
 
 
 
