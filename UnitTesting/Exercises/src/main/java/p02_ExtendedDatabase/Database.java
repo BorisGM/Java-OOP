@@ -23,6 +23,14 @@ public class Database {
         this.elements[++index] = person;
         this.elementsCount++;
     }
+    public void add(Person person) throws OperationNotSupportedException {
+        if (person == null) {
+            throw new OperationNotSupportedException();
+        }
+
+        this.elements[++index] = person;
+        this.elementsCount++;
+    }
 
 
 
