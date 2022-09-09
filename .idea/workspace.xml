@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827a4df2-2ded-40b7-878b-7aa28e6fc866" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/UnitTesting_Exercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/src/main/java/p01_Database/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/target/classes/p01_Database/Database.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/target/classes/p02_ExtendedDatabase/Database.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/target/classes/p02_ExtendedDatabase/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/target/classes/p03_IteratorTest/ListIterator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/target/classes/p04_BubbleSortTest/Bubble.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/target/classes/p05_CustomLinkedList/CustomLinkedList$ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/target/classes/p05_CustomLinkedList/CustomLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/target/classes/p06_TirePressureMonitoringSystem/Alarm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/target/classes/p06_TirePressureMonitoringSystem/Sensor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/target/classes/tdd/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/target/classes/tdd/lab/Instock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/target/classes/tdd/lab/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/target/classes/tdd/lab/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/target/classes/tdd/lab/ProductStock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/target/test-classes/p01_Database/DatabaseTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/target/test-classes/p02_ExtendedDatabase/DatabaseTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/target/test-classes/p03_IteratorTest/ListIteratorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/target/test-classes/p04_BubbleSortTest/BubbleTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/target/test-classes/p05_CustomLinkedList/CustomLinkedListTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/target/test-classes/p06_TirePressureMonitoringSystem/AlarmTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/target/test-classes/tdd/lab/InstockTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/src/main/java/p02_ExtendedDatabase/Database.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,17 +30,17 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/borko/Desktop/OOP/UnitTesting/Exercises/src/main/java/p01_Database",
+    "last_opened_file_path": "C:/Users/borko/Desktop/OOP/UnitTesting/Exercises/src/main/java/p02_ExtendedDatabase",
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\borko\Desktop\OOP\UnitTesting\Exercises\src\main\java\p02_ExtendedDatabase" />
       <recent name="C:\Users\borko\Desktop\OOP\UnitTesting\Exercises\src\main\java\p01_Database" />
       <recent name="C:\Users\borko\Desktop\OOP\UnitTesting\Exercises\.idea" />
       <recent name="C:\Users\borko\Desktop\OOP\TDD\lab" />
       <recent name="C:\Users\borko\Desktop\OOP\TDD\exercises" />
-      <recent name="C:\Users\borko\Desktop\OOP\Reflection\task_07" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\borko\AppData\Roaming\JetBrains\IntelliJIdea2022.1\consoles\db" />
@@ -149,14 +126,7 @@
       <workItem from="1660583721806" duration="3461000" />
       <workItem from="1661373631696" duration="2863000" />
       <workItem from="1661802134763" duration="2798000" />
-      <workItem from="1662314955030" duration="2921000" />
-    </task>
-    <task id="LOCAL-00162" summary="ex">
-      <created>1660762990940</created>
-      <option name="number" value="00162" />
-      <option name="presentableId" value="LOCAL-00162" />
-      <option name="project" value="LOCAL" />
-      <updated>1660762990941</updated>
+      <workItem from="1662314955030" duration="3655000" />
     </task>
     <task id="LOCAL-00163" summary="ex">
       <created>1660763017924</created>
@@ -494,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662665744399</updated>
     </task>
-    <option name="localTasksCounter" value="211" />
+    <task id="LOCAL-00211" summary="ex">
+      <created>1662666310519</created>
+      <option name="number" value="00211" />
+      <option name="presentableId" value="LOCAL-00211" />
+      <option name="project" value="LOCAL" />
+      <updated>1662666310519</updated>
+    </task>
+    <option name="localTasksCounter" value="212" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
