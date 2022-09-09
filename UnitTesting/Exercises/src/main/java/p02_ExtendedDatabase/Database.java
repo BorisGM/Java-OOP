@@ -39,6 +39,18 @@ public class Database {
             throw new OperationNotSupportedException();
         }
     }
+    public Person[] getElements() {
+        Person[] buffer = new Person[elementsCount];
+        int bufferIndex = 0;
+
+        for (Person person : elements) {
+            if (person != null) {
+                buffer[bufferIndex++] = person;
+            }
+        }
+
+        return buffer;
+    }
 
 
 
