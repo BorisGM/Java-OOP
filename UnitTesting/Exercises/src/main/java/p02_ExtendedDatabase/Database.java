@@ -52,6 +52,31 @@ public class Database {
         return buffer;
     }
 
+    public Person findByUsername(String username) throws OperationNotSupportedException {
+        List<Person> people = new ArrayList<>();
+
+        if (username == null) {
+            throw new OperationNotSupportedException();
+        }
+
+        for (Person person : elements) {
+
+            if (person == null) {
+                continue;
+            }
+
+            if (person.getUsername().equals(username)) {
+                people.add(person);
+            }
+        }
+
+        if (people.size() != 1) {
+            throw new OperationNotSupportedException();
+        }
+
+        return people.get(0);
+    }
+
 
 
 
