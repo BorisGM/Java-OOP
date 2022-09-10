@@ -77,6 +77,27 @@ public class Database {
         return people.get(0);
     }
 
+    public Person findById(long id) throws OperationNotSupportedException {
+        List<Person> people = new ArrayList<>();
+
+        for (Person person : elements) {
+
+            if (person == null) {
+                continue;
+            }
+
+            if (person.getId() == id) {
+                people.add(person);
+            }
+        }
+
+        if (people.size() != 1) {
+            throw new OperationNotSupportedException();
+        }
+
+        return people.get(0);
+    }
+
 
 
 
