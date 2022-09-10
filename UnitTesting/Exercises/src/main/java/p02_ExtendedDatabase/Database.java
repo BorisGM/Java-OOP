@@ -98,6 +98,22 @@ public class Database {
         return people.get(0);
     }
 
+    private void setElements(Person... elements) throws OperationNotSupportedException {
+        if (elements.length > 16 ||
+                elements.length < 1) {
+            throw new OperationNotSupportedException();
+        }
+
+        this.elements = new Person[16];
+        int bufferIndex = 0;
+
+        for (Person person : elements) {
+            this.elements[bufferIndex++] = person;
+        }
+
+        this.index = elements.length - 1;
+    }
+
 
 
 
