@@ -16,4 +16,12 @@ public class ListIterator {
         this.elements = Arrays.asList(elements);
         this.currentIndex = 0;
     }
+    public boolean move(){
+        if(hasNext()){
+            this.currentIndex++;
+            return true;
+        }
+
+        return false;
+    }
 }
