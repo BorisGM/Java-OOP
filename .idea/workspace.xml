@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827a4df2-2ded-40b7-878b-7aa28e6fc866" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/UnitTesting/Exercises/src/main/java/p02_ExtendedDatabase/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTesting/Exercises/src/main/java/p02_ExtendedDatabase/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/src/main/java/p02_ExtendedDatabase/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,15 +26,11 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/borko/Desktop/OOP/UnitTesting/Exercises/src/main/java/p02_ExtendedDatabase",
-    "settings.editor.selected.configurable": "editor.preferences.appearance"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/UnitTesting/Exercises/src/main/java/p02_ExtendedDatabase" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\borko\Desktop\OOP\UnitTesting\Exercises\src\main\java\p02_ExtendedDatabase" />
@@ -126,28 +123,9 @@
       <workItem from="1660583721806" duration="3461000" />
       <workItem from="1661373631696" duration="2863000" />
       <workItem from="1661802134763" duration="2798000" />
-      <workItem from="1662314955030" duration="3950000" />
-    </task>
-    <task id="LOCAL-00167" summary="ex">
-      <created>1660927873965</created>
-      <option name="number" value="00167" />
-      <option name="presentableId" value="LOCAL-00167" />
-      <option name="project" value="LOCAL" />
-      <updated>1660927873965</updated>
-    </task>
-    <task id="LOCAL-00168" summary="ex">
-      <created>1660927911063</created>
-      <option name="number" value="00168" />
-      <option name="presentableId" value="LOCAL-00168" />
-      <option name="project" value="LOCAL" />
-      <updated>1660927911063</updated>
-    </task>
-    <task id="LOCAL-00169" summary="ex">
-      <created>1660927957350</created>
-      <option name="number" value="00169" />
-      <option name="presentableId" value="LOCAL-00169" />
-      <option name="project" value="LOCAL" />
-      <updated>1660927957350</updated>
+      <workItem from="1662314955030" duration="4317000" />
+      <workItem from="1662836368462" duration="940000" />
+      <workItem from="1662837381847" duration="968000" />
     </task>
     <task id="LOCAL-00170" summary="ex">
       <created>1661373819603</created>
@@ -471,7 +449,28 @@
       <option name="project" value="LOCAL" />
       <updated>1662748327182</updated>
     </task>
-    <option name="localTasksCounter" value="216" />
+    <task id="LOCAL-00216" summary="ex">
+      <created>1662835972819</created>
+      <option name="number" value="00216" />
+      <option name="presentableId" value="LOCAL-00216" />
+      <option name="project" value="LOCAL" />
+      <updated>1662835972819</updated>
+    </task>
+    <task id="LOCAL-00217" summary="ex">
+      <created>1662836010330</created>
+      <option name="number" value="00217" />
+      <option name="presentableId" value="LOCAL-00217" />
+      <option name="project" value="LOCAL" />
+      <updated>1662836010330</updated>
+    </task>
+    <task id="LOCAL-00218" summary="ex">
+      <created>1662836041907</created>
+      <option name="number" value="00218" />
+      <option name="presentableId" value="LOCAL-00218" />
+      <option name="project" value="LOCAL" />
+      <updated>1662836041907</updated>
+    </task>
+    <option name="localTasksCounter" value="219" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
