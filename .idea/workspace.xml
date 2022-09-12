@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827a4df2-2ded-40b7-878b-7aa28e6fc866" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UnitTesting/Exercises/src/main/java/p03_IteratorTest/ListIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTesting/Exercises/src/main/java/p03_IteratorTest/ListIterator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,13 +125,6 @@
       <workItem from="1662314955030" duration="4317000" />
       <workItem from="1662836368462" duration="940000" />
       <workItem from="1662837381847" duration="968000" />
-    </task>
-    <task id="LOCAL-00173" summary="ex">
-      <created>1661454257095</created>
-      <option name="number" value="00173" />
-      <option name="presentableId" value="LOCAL-00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1661454257095</updated>
     </task>
     <task id="LOCAL-00174" summary="ex">
       <created>1661454295356</created>
@@ -470,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662925714827</updated>
     </task>
-    <option name="localTasksCounter" value="222" />
+    <task id="LOCAL-00222" summary="ex">
+      <created>1662925752499</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1662925752499</updated>
+    </task>
+    <option name="localTasksCounter" value="223" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

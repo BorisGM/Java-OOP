@@ -24,4 +24,21 @@ public class ListIterator {
 
         return false;
     }
+
+    public boolean hasNext(){
+        if(currentIndex < elements.size() - 1){
+            return true;
+        }
+
+        return false;
+    }
+    public String print(){
+        if(this.elements.size() == 0){
+            throw new IllegalStateException("Invalid Operation!");
+        }
+
+        return this.elements.get(this.currentIndex);
+    }
+}
+
 }
