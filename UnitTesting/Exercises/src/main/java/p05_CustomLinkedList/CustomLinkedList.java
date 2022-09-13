@@ -11,5 +11,13 @@ public class CustomLinkedList<T> {
             this.setElement(element);
             this.setNextNode(null);
         }
+        public ListNode(T element, ListNode prevNode) {
+            this.setElement(element);
+            prevNode.setNextNode(this);
+        }
+
+        public T getElement() {
+            return element;
+        }
     }
 }
