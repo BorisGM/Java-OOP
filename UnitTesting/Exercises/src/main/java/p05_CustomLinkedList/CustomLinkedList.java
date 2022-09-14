@@ -66,4 +66,24 @@ public class CustomLinkedList<T> {
         }
         return currentNode.getElement();
     }
+
+    /**
+     * Sets element at the specified position
+     * @param index The position of the element [0 � count-1]
+     * @param element The element which should be set on the given position
+     * @return The item at the specified index
+     * @exception IllegalArgumentException When an invalid index is specified
+     */
+    public void set(int index, T element) {
+        if (index >= this.count || index < 0) {
+            throw new IllegalArgumentException("Invalid index: " + index);
+        }
+
+        ListNode currentNode = this.head;
+        for (int i = 0; i < index; i++) {
+            currentNode = currentNode.getNextNode();
+        }
+
+        currentNode.setElement(element);
+    }
 }
