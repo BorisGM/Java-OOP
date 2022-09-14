@@ -47,4 +47,16 @@ public class CustomLinkedList<T> {
     private int getCount() {
         return count;
     }
+
+    public T get(int index) {
+        if (index >= this.count || index < 0) {
+            throw new IllegalArgumentException("Invalid index: " + index);
+        }
+
+        ListNode currentNode = this.head;
+        for (int i = 0; i < index; i++) {
+            currentNode = currentNode.getNextNode();
+        }
+        return currentNode.getElement();
+    }
 }
