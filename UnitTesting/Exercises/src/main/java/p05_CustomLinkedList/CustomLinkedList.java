@@ -2,6 +2,8 @@ package p05_CustomLinkedList;
 
 
 public class CustomLinkedList<T> {
+
+
     private class ListNode {
 
         private T element;
@@ -30,5 +32,19 @@ public class CustomLinkedList<T> {
         public void setNextNode(ListNode nextNode) {
             this.nextNode = nextNode;
         }
+    }
+
+    private ListNode head;
+    private ListNode tail;
+    private int count;
+
+    public CustomLinkedList() {
+        this.head = null;
+        this.tail = null;
+        this.count = 0;
+    }
+
+    private int getCount() {
+        return count;
     }
 }
