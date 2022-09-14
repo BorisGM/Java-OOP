@@ -48,6 +48,13 @@ public class CustomLinkedList<T> {
         return count;
     }
 
+    /**
+     * Gets element at the specified position
+     * @param index The position of the element [0 � count-1]
+     * @return The item at the specified index
+     * @exception IllegalArgumentException When an invalid index is specified
+     */
+
     public T get(int index) {
         if (index >= this.count || index < 0) {
             throw new IllegalArgumentException("Invalid index: " + index);
