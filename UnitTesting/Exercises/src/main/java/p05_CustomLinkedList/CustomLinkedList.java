@@ -132,4 +132,34 @@ public class CustomLinkedList<T> {
         // Return the removed element
         return currentNode.getElement();
     }
+
+    /**
+     * Removes the specified item and return its index.
+     * @param item The item for removal
+     * @return The index of the element or -1 if it does not exist
+     */
+    public int remove(T item) {
+        // Find the element containing the searched item
+        int currentIndex = 0;
+        ListNode currentNode = this.head;
+        ListNode prevNode = null;
+        while (currentNode != null) {
+            if (currentNode.getElement().equals(item)) {
+                break;
+            }
+
+            prevNode = currentNode;
+            currentNode = currentNode.getNextNode();
+            currentIndex++;
+        }
+
+        if (currentNode != null) {
+            // The element is found in the list -> remove it
+            removeListNode(currentNode, prevNode);
+            return currentIndex;
+        }
+
+        // The element is not found in the list -> return -1
+        return -1;
+    }
 }
