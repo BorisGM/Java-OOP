@@ -104,4 +104,32 @@ public class CustomLinkedList<T> {
 
         this.count++;
     }
+
+    /**
+     * Removes and returns element on the specified index
+     * @param index The index of the element to be removed
+     * @return The removed element
+     * @exception IllegalArgumentException if the index is invalid
+     */
+    public T removeAt(int index) {
+        if (index >= this.count || index < 0) {
+            throw new IllegalArgumentException("Invalid index: " + index);
+        }
+
+        // Find the element at the specified index
+        int currentIndex = 0;
+        ListNode currentNode = this.head;
+        ListNode prevNode = null;
+        while (currentIndex < index) {
+            prevNode = currentNode;
+            currentNode = currentNode.getNextNode();
+            currentIndex++;
+        }
+
+        // Remove the found element from the list of nodes
+        this.removeListNode(currentNode, prevNode);
+
+        // Return the removed element
+        return currentNode.getElement();
+    }
 }
