@@ -86,4 +86,22 @@ public class CustomLinkedList<T> {
 
         currentNode.setElement(element);
     }
+    /**
+     * Add element at the end of the list
+     * @param item The element to be added
+     */
+    public void add(T item) {
+        if (this.head == null) {
+            // We have an empty list -> create a new head and tail
+            this.head = new ListNode(item);
+            this.tail = this.head;
+        }
+        else {
+            // We have a non-empty list -> append the item after tail
+            ListNode newNode = new ListNode(item, this.tail);
+            this.tail = newNode;
+        }
+
+        this.count++;
+    }
 }
