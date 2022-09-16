@@ -193,4 +193,31 @@ public class CustomLinkedList<T> {
         boolean found = index != -1;
         return found;
     }
+
+    /**
+     * Remove the specified node from the list of nodes
+     * @param node the node for removal
+     * @param prevNode the predecessor of node
+     */
+    private void removeListNode(ListNode node, ListNode prevNode) {
+        this.count--;
+        if (count == 0) {
+            // The list becomes empty -> remove head and tail
+            this.head = null;
+            this.tail = null;
+        }
+        else if (prevNode == null) {
+            // The head node was removed --> update the head
+            this.head = node.getNextNode();
+        }
+        else {
+            // Redirect the pointers to skip the removed node
+            prevNode.setNextNode(node.getNextNode());
+        }
+
+        // Fix the tail in case it was removed
+        if (this.tail == node) {
+            this.tail = prevNode;
+        }
+    }
 }
