@@ -182,4 +182,15 @@ public class CustomLinkedList<T> {
 
         return -1;
     }
+
+    /**
+     * Checks if the specified element exists in the list
+     * @param item The item to be checked
+     * @return True if the element exists or false otherwise
+     */
+    public boolean contains(T item) {
+        int index = this.indexOf(item);
+        boolean found = index != -1;
+        return found;
+    }
 }
