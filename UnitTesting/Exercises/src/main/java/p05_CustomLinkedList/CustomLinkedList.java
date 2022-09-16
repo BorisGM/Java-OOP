@@ -162,4 +162,24 @@ public class CustomLinkedList<T> {
         // The element is not found in the list -> return -1
         return -1;
     }
+
+    /**
+     * Searches for given element in the list
+     * @param item The item to be searched
+     * @return The index of the first occurrence of the element in the list or -1 when it is not found
+     */
+    public int indexOf(T item) {
+        int index = 0;
+        ListNode currentNode = this.head;
+        while (currentNode != null) {
+            if (currentNode.getElement().equals(item)) {
+                return index;
+            }
+
+            currentNode = currentNode.getNextNode();
+            index++;
+        }
+
+        return -1;
+    }
 }
