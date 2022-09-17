@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827a4df2-2ded-40b7-878b-7aa28e6fc866" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/UnitTesting/Exercises/src/main/java/p05_CustomLinkedList/CustomLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTesting/Exercises/src/main/java/p05_CustomLinkedList/CustomLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/src/main/java/p06_TirePressureMonitoringSystem/Alarm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,16 +27,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/UnitTesting/Exercises/src/main/java/p05_CustomLinkedList" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/UnitTesting/Exercises/src/main/java/p06_TirePressureMonitoringSystem" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\borko\Desktop\OOP\UnitTesting\Exercises\src\main\java\p06_TirePressureMonitoringSystem" />
       <recent name="C:\Users\borko\Desktop\OOP\UnitTesting\Exercises\src\main\java\p05_CustomLinkedList" />
       <recent name="C:\Users\borko\Desktop\OOP\UnitTesting\Exercises\src\main\java\p04_BubbleSortTest" />
       <recent name="C:\Users\borko\Desktop\OOP\UnitTesting\Exercises\src\main\java\p03_IteratorTest" />
       <recent name="C:\Users\borko\Desktop\OOP\UnitTesting\Exercises\src\main\java\p02_ExtendedDatabase" />
-      <recent name="C:\Users\borko\Desktop\OOP\UnitTesting\Exercises\src\main\java\p01_Database" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\borko\AppData\Roaming\JetBrains\IntelliJIdea2022.1\consoles\db" />
@@ -125,27 +125,6 @@
       <workItem from="1662314955030" duration="4317000" />
       <workItem from="1662836368462" duration="940000" />
       <workItem from="1662837381847" duration="968000" />
-    </task>
-    <task id="LOCAL-00186" summary="ex">
-      <created>1661882486935</created>
-      <option name="number" value="00186" />
-      <option name="presentableId" value="LOCAL-00186" />
-      <option name="project" value="LOCAL" />
-      <updated>1661882486935</updated>
-    </task>
-    <task id="LOCAL-00187" summary="ex">
-      <created>1661882538471</created>
-      <option name="number" value="00187" />
-      <option name="presentableId" value="LOCAL-00187" />
-      <option name="project" value="LOCAL" />
-      <updated>1661882538471</updated>
-    </task>
-    <task id="LOCAL-00188" summary="ex">
-      <created>1661882577649</created>
-      <option name="number" value="00188" />
-      <option name="presentableId" value="LOCAL-00188" />
-      <option name="project" value="LOCAL" />
-      <updated>1661882577649</updated>
     </task>
     <task id="LOCAL-00189" summary="ex">
       <created>1661882679883</created>
@@ -469,7 +448,28 @@
       <option name="project" value="LOCAL" />
       <updated>1663267778130</updated>
     </task>
-    <option name="localTasksCounter" value="235" />
+    <task id="LOCAL-00235" summary="ex">
+      <created>1663350016539</created>
+      <option name="number" value="00235" />
+      <option name="presentableId" value="LOCAL-00235" />
+      <option name="project" value="LOCAL" />
+      <updated>1663350016539</updated>
+    </task>
+    <task id="LOCAL-00236" summary="ex">
+      <created>1663350061194</created>
+      <option name="number" value="00236" />
+      <option name="presentableId" value="LOCAL-00236" />
+      <option name="project" value="LOCAL" />
+      <updated>1663350061194</updated>
+    </task>
+    <task id="LOCAL-00237" summary="ex">
+      <created>1663350110859</created>
+      <option name="number" value="00237" />
+      <option name="presentableId" value="LOCAL-00237" />
+      <option name="project" value="LOCAL" />
+      <updated>1663350110859</updated>
+    </task>
+    <option name="localTasksCounter" value="238" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
