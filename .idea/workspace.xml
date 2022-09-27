@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827a4df2-2ded-40b7-878b-7aa28e6fc866" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/src/test/java/p04_BubbleSortTest/BubbleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTesting/Exercises/src/test/java/p05_CustomLinkedList/CustomLinkedListTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,16 +28,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/borko/Desktop/OOP/UnitTesting/Exercises/src/test/java/p04_BubbleSortTest"
+    "last_opened_file_path": "C:/Users/borko/Desktop/OOP/UnitTesting/Exercises/src/test/java/p05_CustomLinkedList"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\borko\Desktop\OOP\UnitTesting\Exercises\src\test\java\p05_CustomLinkedList" />
       <recent name="C:\Users\borko\Desktop\OOP\UnitTesting\Exercises\src\test\java\p04_BubbleSortTest" />
       <recent name="C:\Users\borko\Desktop\OOP\UnitTesting\Exercises\src\test\java\p03_IteratorTest" />
       <recent name="C:\Users\borko\Desktop\OOP\UnitTesting\Lab\src\main\java\rpg" />
       <recent name="C:\Users\borko\Desktop\OOP\UnitTesting\Lab\.idea" />
-      <recent name="C:\Users\borko\Desktop\OOP\UnitTesting\Lab" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\borko\AppData\Roaming\JetBrains\IntelliJIdea2022.1\consoles\db" />
@@ -128,14 +128,7 @@
       <workItem from="1662837381847" duration="968000" />
       <workItem from="1663605973282" duration="774000" />
       <workItem from="1663789808560" duration="1778000" />
-      <workItem from="1664112633107" duration="547000" />
-    </task>
-    <task id="LOCAL-00197" summary="ex">
-      <created>1662315030678</created>
-      <option name="number" value="00197" />
-      <option name="presentableId" value="LOCAL-00197" />
-      <option name="project" value="LOCAL" />
-      <updated>1662315030678</updated>
+      <workItem from="1664112633107" duration="1193000" />
     </task>
     <task id="LOCAL-00198" summary="ex">
       <created>1662315066816</created>
@@ -473,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664113105460</updated>
     </task>
-    <option name="localTasksCounter" value="246" />
+    <task id="LOCAL-00246" summary="ex">
+      <created>1664203397012</created>
+      <option name="number" value="00246" />
+      <option name="presentableId" value="LOCAL-00246" />
+      <option name="project" value="LOCAL" />
+      <updated>1664203397012</updated>
+    </task>
+    <option name="localTasksCounter" value="247" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
