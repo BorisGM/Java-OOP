@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="827a4df2-2ded-40b7-878b-7aa28e6fc866" name="Changes" comment="" />
+    <list default="true" id="827a4df2-2ded-40b7-878b-7aa28e6fc866" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/UnitTesting/Lab/src/test/java/rpg/HeroTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,14 +129,7 @@
       <workItem from="1663605973282" duration="774000" />
       <workItem from="1663789808560" duration="1778000" />
       <workItem from="1664112633107" duration="3152000" />
-      <workItem from="1664827819279" duration="672000" />
-    </task>
-    <task id="LOCAL-00202" summary="ex">
-      <created>1662409906186</created>
-      <option name="number" value="00202" />
-      <option name="presentableId" value="LOCAL-00202" />
-      <option name="project" value="LOCAL" />
-      <updated>1662409906186</updated>
+      <workItem from="1664827819279" duration="1060000" />
     </task>
     <task id="LOCAL-00203" summary="ex">
       <created>1662487021239</created>
@@ -472,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664827887835</updated>
     </task>
-    <option name="localTasksCounter" value="251" />
+    <task id="LOCAL-00251" summary="ex">
+      <created>1664911412715</created>
+      <option name="number" value="00251" />
+      <option name="presentableId" value="LOCAL-00251" />
+      <option name="project" value="LOCAL" />
+      <updated>1664911412715</updated>
+    </task>
+    <option name="localTasksCounter" value="252" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
